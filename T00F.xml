@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <T00F>
-            <Filename>ResurrectionRemix-N-v5.8.2-20170309-T00F.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.2-20170314-T00F.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://drive.google.com/file/d/0B-Fin8UxrD6PVkpDMGJidzE1OVE/view</BuildUrl>
+            	description="Download Latest Build">https://drive.google.com/file/d/0B-Fin8UxrD6PaWZJRERpYlpFTzg/view</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
