@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <T00F>
-            <Filename>ResurrectionRemix-N-v5.8.3-20170418-T00F.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.3-20170501-T00F.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://drive.google.com/file/d/0B-Fin8UxrD6PYjhSVEtObWVoTTA/view</BuildUrl>
+            	description="Download Latest Build">https://drive.google.com/file/d/0B-Fin8UxrD6PSzJBRHItZExwMGM/view</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
              <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/Reshttps://drive.google.com/drive/folders/0B-Fin8UxrD6PS1dwQ3RJQWdhM0k?usp=drive_weburrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
              <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
