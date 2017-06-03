@@ -1,0 +1,40 @@
+
+ 
+ ▼ Resurrection Remix Nougat Ver 5.8.3 Changelog
+
+
+ ▼ 05/30/2017
+
+
+ ▪ project packages/apps/Email/
+ ▪ b76ada5 Fix check for deleted messages.
+ ▪ 70ccb25 Close body InputStreams correctly.
+
+ ▪ project packages/apps/Jelly/
+ ▪ dc48da6 Jelly: Don't add duplicates to the history
+ ▪ 78e3754 Jelly: Query an already ordered history
+ ▪ c8e5ebe Jelly: Enable the DOM storage API
+
+ ▪ project packages/apps/Settings/
+
+ ▪ project packages/apps/Snap/
+ ▪ 26d9aec Fixed camera crash on exit
+
+ ▪ project packages/apps/UnifiedEmail/
+ ▪ e353ae2 Properly close body InputStreams.
+
+ ▪ project vendor/cm/
+ ▪ a8b16ae Update pixel launcher
+
+ ▼ 05/29/2017
+
+
+ ▪ project frameworks/base/
+ ▪ 253e251 Recents: Ensure Lock icon animates only when Dismiss icon is visible
+
+ ▪ project packages/apps/Settings/
+ ▪ 5de955c ButtonBacklight: Preview timeout once user stops dragging
+ ▪ f30a1b4 Configurations: Update button backlight brightness in real time
+
+
+For more information go to (Settings>About Phone > About > Changelog)
